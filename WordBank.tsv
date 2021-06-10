@@ -1,0 +1,136 @@
+variable	A named unit of data that is assigned a value. If the value is modified, the name does not change.	Programming
+algorithm	A set of instructions or rules designed to solve a definite problem. The problem can be simple like adding two numbers or a complex one, such as converting a video file from one format to another.	Programming
+program	An organized collection of instructions, which when executed perform a specific task or function. A program is processed by the central processing unit (CPU) of the computer before it is executed.	Programming
+argument	A value that is passed into a command or a function.	Programming
+bug	An unexpected error or defect in hardware or software.	Programming
+character	A display unit of information equal to one alphabetic letter or symbol.	Programming
+constant	A value that does not change throughout the execution of the program, unlike a variable.	Programming
+exception	A special, unexpected and anomalous condition encountered during the execution of a program.	Programming
+keyword	A word that is reserved by a Programming language or a program as it has a special meaning.	Programming
+parse	To convert a sequence of tokens into a data structures (typically a tree and a name table) that can be used to interpret or translate the sequence.	Programming
+statement	A single line of code written legally in a Programming language that expresses an action to be carried out.	Programming
+function	A set of code grouped to accomplish something together.	Programming
+code	A written set of instructions, written using the protocols of a particular language, such as Java, C or Python.	Programming
+constructor	A function in a class that creates new objects in the class.	Programming
+syntax	A set of character structures that a computer can interpret.	Programming
+boolean	An expression used for creating statements that are either TRUE or FALSE.	Programming
+documentation	The printed instructions, comments, and information for using a particular piece or system of computer software or hardware.	Programming
+object	A combination of related variables, constants and other data structures which can be selected and manipulated together.	Programming
+array	Lists or groups of similar types of data values that are grouped.	Programming
+loop	A sequence of instructions that repeat the same process over and over until a condition is met and it receives the order to stop.	Programming
+null	The lack of any value whatsoever.	Programming
+crash	A running program to stop due to an error.	Programming
+programmer	Someone who does programming	Programming
+program	An organized list of instructions that, when executed, causes the computer to behave in a predetermined manner.	Programming
+concatenate	Combining a string, text, or other data in a series without any gaps.	Programming
+hacker	A person who has a high level of skill in computer technology or programming; a computer expert or enthusiast	Programming
+debug	To investigate and fix bugs.	Programming
+execute	Synonym for run.	Programming
+integer	A value that represents a whole number	Programming
+code	The language that programmers create and use to tell a computer what to do.	Programming
+data	Information. Often, quantities, characters, or symbols that are the inputs and outputs of computer programs.	Programming
+input	A way to give information to a computer.	Programming
+iteration	A reptitive action or command typically created with programming loops.	Programming
+parameter	An extra piece of information passed to a function to customise it for a specific need.	Programming
+repeat	To do something again	Programming
+programming	The art of creating a program	Programming
+nested	Contained within something like itself.	Programming
+return	To immediately stop a called function from running, possibly providing a value alongside.	Programming
+python	Programming language that is named after a snake.	Programming
+coffee	A drink that programmers commonly drink to stay awake all night.	Programming
+javascript	Programming language often interpreted as JS.	Programming
+github	A web-based hosting service founded in April 2008, where anyone can share programming code with anyone else.	Programming
+java	An object-oriented programming language developed by James Gosling and others at Sun Microsystems, originally known as oak.	Programming
+push	A function that adds one or more elements to the end of an array.	Programming
+sequence	An ordered list containing successive items, or functions for performing certain actions.	Programming
+comment	A text in a program's code, script, or another file that is not meant to be seen by the user running the program. However, is seen when viewing the source code.	Programming
+call	A piece of code that transfers control, temporarily, to a subprogram and suspends the original code until the subprogram returns to the following statement etc.	Programming
+acceleration	The rate at which the velocity of a body increases with time.	Science
+deceleration	The rate at which the velocity of a body decreases with time.	Science
+alloy	A chemical mixture of a metal with one or more other metals or other elements.	Science
+alkali	A pH value of > 7.	Science
+acid	A pH value of < 7.	Science
+ampere	The SI base unit of electric current, defined as one coulomb of electric charge per second.	Science
+ammeter	An instrument that is used to measure eletric current.	Science
+anion	A negatively charged ion.	Science
+cation	A positively charged ion.	Science
+atom	A basic unit of matter that consists of a dense central nucleus surrounded by a cloud of negatively charged electrons. The atomic nucleus contains a mix of positively charged protons and electrically neutral neutrons.	Science
+buoyancy	An upward force exerted by a fluid that opposes the weight of an immersed object.	Science
+coulomb	The SI derived unit of electric charge, defined as the charge transported by a constant current of one ampere in one second.	Science
+distance	A numerical description of how far apart objects are.	Science
+electron	A subatomic particle with a negative elementary electric charge.	Science
+energy	The ability to do work.	Science
+force	"May the _ be with you."	Science
+gravity	A natural phenomenon by which physical bodies attract each other with a force proportional to their masses.	Science
+liquid	One of four classical states of matter having a definite volume but no fixed shape.	Science
+matrix	A rectangular array of numbers, symbols, or expressions arranged in rows and columns. The individual items in a matrix are called its elements or entries.	Science
+melting	A physical process that results in the phase transition of a substance from a solid to a liquid.	Science
+joule	A derived unit of energy, work, or amount of heat in the International System of Units.	Science
+kelvin	A scale and unit of measurement of temperature. The Kelvin scale is an absolute thermodynamic temperature scale which uses absolute zero as its null point.	Science
+stress	An applied force or system of forces that tends to strain or deform a physical body.	Science
+temperature	A physical property of matter that quantitatively expresses the common notions of hot and cold.	Science
+torque	The tendency of a force to rotate an object about an axis, fulcrum, or pivot. Just as a force is a push or a pull, a torque can be thought of as a twist to an object.	Science
+trajectory	The path that a moving object follows through space as a function of time.	Science
+vacuum	An area of space which contains no matter.	Science
+vector	Any quantity that has both magnitude and direction.	Science
+scalar	Any quantity that has only magnitude	Science
+volt	The SI derived unit for electric potential, electric potential difference, and electromotive force, defined as the difference in electric potential between two points of a conducting wire when an electric current of one ampere dissipates one watt of power between those two points.	Science
+watt	A derived unit of power in the International System of Units (SI) defined as one joule per second. The watt measures the rate of energy conversion or transfer.	Science
+wave	A disturbance or oscillation that travels through spacetime accompanied by a transfer of energy.	Science
+wind	The flow of gases on a large scale.	Science
+analog	When the behavior of one corresponds to the behavior of something else continuously rather than in steps. The signals to a composite monitor from computer are known as analog voltages.	Science
+bacteriology	The branch of science under microbiology that studies unicellular, microscopic organisms known as bacteria. 	Science
+biostasis	A state in which the cell’s and tissue structure of an organism are preserved so that they can be restored again with the help of cell repair machines.	Science
+biology	The science which deals with the study of living organisms is known as biology. It is derived from the Greek word bios meaning ‘life’ and logia that means ‘study of’.	Science
+chemistry	The branch of science that studies the natural sciences which deal with the composition of substances, their properties and their chemical reactions with one another is called chemistry. It is derived from the Egyptian word keme that means ‘earth’.	Science
+circuit	A closed path within which the electric current flows is known as the circuit. Know more on circuit breaker panel.	Science
+dust	Tiny particles that are just a few angstroms in size produced by the supernovae explosions and asteroid collisions are known as the cosmic or interstellar dust.	Science
+filament	A filament is the dark streak that is visible against the bright disc of Sun, appearing like a bright stream of plasma in the solar corona. It looks appears like it is radiating away from the Sun when observed off the solar limb.	Science
+geography	The study of surface of the earth and its inhabitants is known as geography.	Science
+inertia	A bodies tendency to remain at rest or stay in motion unless it is acted upon by an external force is known as inertia.	Science
+insulator	A material through which electricity or heat cannot flow easily.	Science
+albania	A country in Southeast Europe on the Adriatic and Ionian Sea within the Mediterranean Sea. It shares land borders with Montenegro to the northwest, Kosovo to the northeast, North Macedonia to the east, Greece to the south and maritime borders with Greece, Montenegro and Italy to the west.	Countries
+zimbabwe	Formerly Rhodesia, is a landlocked country located in Southern Africa, between the Zambezi and Limpopo Rivers, bordered by South Africa, Botswana, Zambia and Mozambique. The capital and largest city is Harare. The second largest city is Bulawayo.	Countries
+uganda	A landlocked country in East-Central Africa. It is bordered to the east by Kenya, to the north by South Sudan, to the west by the Democratic Republic of the Congo, to the south-west by Rwanda, and to the south by Tanzania.	Countries
+russia	A transcontinental country located in Eastern Europe and Northern Asia. Covering an area of 17,125,200 square kilometres, it is the largest country in the world by area, spanning more than one-eighth of the Earth's inhabited land area, stretching eleven time zones, and bordering 16 sovereign nations.	Countries
+serbia	A landlocked country situated at the crossroads of Central and Southeast Europe in the southern Pannonian Plain and the central Balkans. It borders Hungary to the north, Romania to the northeast, Bulgaria to the southeast, North Macedonia to the south, Croatia and Bosnia and Herzegovina to the west, and Montenegro to the southwest.	Countries
+spain	A country in Southwestern Europe with some pockets of territory across the Strait of Gibraltar and the Atlantic Ocean. Its continental European territory is situated on the Iberian Peninsula.	Countries
+sudan	A country in North Africa. It is bordered by Egypt to the north, Libya to the northwest, Chad to the west, the Central African Republic to the southwest, South Sudan to the south, Ethiopia to the southeast, Eritrea to the east, and the Red Sea to the northeast.	Countries
+peru	A country in western South America. It is bordered in the north by Ecuador and Colombia, in the east by Brazil, in the southeast by Bolivia, in the south by Chile, and in the west by the Pacific Ocean.	Countries
+phillipines	An archipelagic country in Southeast Asia. Situated in the western Pacific Ocean, it consists of about 7,641 islands that are broadly categorized under three main geographical divisions from north to south: Luzon, Visayas, Mindanao.	Countries
+portugal	A country located mostly on the Iberian Peninsula, in southwestern Europe. It is the westernmost sovereign state of mainland Europe, being bordered to the west and south by the Atlantic Ocean and to the north and east by Spain.	Countries
+australia	The largest country in Oceania and the world's sixth-largest country by total area.	Countries
+argentina	A country located mostly in the southern half of South America. Sharing the bulk of the Southern Cone with Chile to the west, the country is also bordered by Bolivia and Paraguay to the north, Brazil to the northeast, Uruguay and the South Atlantic Ocean to the east, and the Drake Passage to the south.	Countries
+brunei	The Abode of Peace, is a country located on the north coast of the island of Borneo in Southeast Asia. Apart from its coastline with the South China Sea, the country is completely surrounded by the insular Malaysian state of Sarawak.	Countries
+china	A country in East Asia. It is the world's most populous country, with a population of around 1.4 billion in 2019. Covering approximately 9.6 million square kilometres, it is the world's third or fourth-largest country by area.	Countries
+cuba	Located in the northern Caribbean where the Caribbean Sea, Gulf of Mexico and Atlantic Ocean meet. It is east of the Yucatán Peninsula, south of both the U.S.	Countries
+egypt	A transcontinental country spanning the northeast corner of Africa and southwest corner of Asia by a land bridge formed by the Sinai Peninsula. Egypt is a Mediterranean country bordered by the Gaza Strip and Israel to the northeast, the Gulf of Aqaba and the Red Sea to the east, Sudan to the south, and Libya to the west.	Countries
+finland	a country located in the Nordic region of Europe. Bounded by the Baltic Sea to its southwest, the Gulf of Bothnia on the west, and the Gulf of Finland on the south, it shares land borders with Sweden to the west, Russia to the east, and Norway to the north.	Countries
+ghana	bordered by the Ivory Coast in the west, Burkina Faso in the north, Togo in the east, and the Gulf of Guinea and Atlantic Ocean in the south.	Countries
+israel	a country in Western Asia, located on the southeastern shore of the Mediterranean Sea and the northern shore of the Red Sea. It has land borders with Lebanon to the north, Syria to the northeast, Jordan on the east, the Palestinian territories of the West Bank and Gaza Strip to the east and west, respectively, and Egypt to the southwest.	Countries
+iran	also called Persia	Countries
+japan	an island country of East Asia in the northwest Pacific Ocean.	Countries
+jamaica	the British Overseas Territory of the Cayman Islands lies some 215 kilometres to the north-west.	Countries
+italy	a sovereign country consisting of a peninsula delimited by the Alps and surrounded by several islands.	Countries
+laos	a socialist state and the only landlocked country in Southeast Asia.	Countries
+libya	a country in the Maghreb region in North Africa, bordered by the Mediterranean Sea to the north, Egypt to the east, Sudan to the southeast, Chad to the south, Niger to the southwest, Algeria to the west, and Tunisia to the northwest.	Countries
+monaco	a sovereign city-state, country, and microstate on the French Riviera in Western Europe. It is bordered by France to the north, east and west, and by the Mediterranean Sea to the south.	Countries
+mexico	officially the United Mexican States	Countries
+pakistan	a country in South Asia. It is the world's fifth-most populous country with a population exceeding 212.2 million.	Countries
+norway	a Nordic country in Northern Europe whose mainland territory comprises the western and northernmost portion of the Scandinavian Peninsula	Countries
+niger	bordered by Libya to the northeast, Chad to the east, Nigeria to the south, Benin to the southwest, Mali to the north-west, Burkina Faso to the south-west, and Algeria to the northwest.	Countries
+nigeria	a sovereign country located in West Africa bordering Niger in the north, Chad in the northeast, Cameroon in the east, and Benin in the west. Its southern coast is on the Gulf of Guinea in the Atlantic Ocean.	Countries
+square	A four-sided figure which is created by connecting 4 line segments.	Shapes
+circle	A shape of geometry has no straight lines. It is rather a combination of curves that are all connected.	Shapes
+rectangle	Commonly described as an elongated square.	Shapes
+triangle	A polygon with three edges and three vertices.	Shapes
+polygon	A geometric shape made up of lines and no curves.	Shapes
+quadrilateral	The simplest polygon which can cross itself; the simplest polygon which can be concave; the simplest polygon which can be non-cyclic.	Shapes
+pentagon	A polygon with five edges and five vertices.	Shapes
+hexagon	A polygon with six edges and six vertices.	Shapes
+heptagon	A polygon with seven edges and seven vertices.	Shapes
+octagon	A polygon with eight edges and eight vertices.	Shapes
+nonagon	A polygon with nine edges and nine vertices.	Shapes
+decagon	A polygon with ten edges and ten vertices.	Shapes
+hendegon	The simplest polygon such that the regular form cannot be constructed with compass, straightedge, and angle trisector.	Shapes
+congruent	Superposable so as to be coincident throughout	Shapes
